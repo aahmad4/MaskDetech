@@ -64,7 +64,7 @@ In addition, we created an accompanying web application using Flask, HTML, CSS, 
 ## Clone
 
 ```
-git clone https://github.com/aahmad4/HelmProtech-Safety-App
+git clone https://github.com/aahmad4/MaskDetech
 ```
 
 ## Installation
