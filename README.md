@@ -5,7 +5,7 @@ A link to our devpost submission can be found here: https://devpost.com/software
 
 A link to our YouTube demo video can be found here: https://youtu.be/WavRO4YaAJ8
 
-The app is currently deployed to Google Cloud Platform here (Keep in mind that there are memory issues with our app on Google Cloud so image processing may be rendered slowly): https://maskdetech.uc.r.appspot.com/
+The app is currently deployed to Google Cloud Platform here: https://maskdetech.uc.r.appspot.com/
 
 
 ## Screenshots 
