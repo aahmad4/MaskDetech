@@ -27,7 +27,7 @@ This is where users are able to see a recurring news feed of COVID-19 related ar
 ![](news.png)
 
 ## Features
-
+ 
 * Finding objects in pictures using YOLO
 * Reading and parsing images with OpenCV
 * Detecting if users are wearing proper face masks or not
