@@ -1,4 +1,5 @@
-# MaskDetech
+# MaskDetech <img src="maskdetechlogo.png" align="right" alt="Logo">
+
 This project was done for the HackMann 2020 Hacks Hackathon. We decided to create a web application that helps with the COVID-19 Pandemic by detecting if somebody is wearing a proper face mask or not. Our flask application has a live camera feature with OpenCV which detects a mask live. We also have a live news feed page all related to COVID-19, as well as a dedicated page for COVID-19 statistics.  
 
 A link to our devpost submission can be found here: https://devpost.com/software/maskdetech
