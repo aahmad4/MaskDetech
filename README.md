@@ -9,15 +9,15 @@ This project was done for the HackMann 2020 Hacks Hackathon. We decided to creat
 </p>
 
 <p align="center">
-A link to our devpost submission can be found here: https://devpost.com/software/maskdetech
+A link to our devpost submission can be found here: <a href="https://devpost.com/software/maskdetech" target="_blank">devpost.com/software/maskdetech</a>
 </p>
 
 <p align="center">
-A link to our YouTube demo video can be found here: https://youtu.be/WavRO4YaAJ8
+A link to our YouTube demo video can be found here: <a href="https://youtu.be/WavRO4YaAJ8" target="_blank">youtu.be/WavRO4YaAJ8</a>
 </p>
 
 <p align="center">
-The app is currently deployed to Google Cloud Platform here: https://maskdetech.uc.r.appspot.com/
+The app is currently deployed to Google Cloud Platform here: <a href="https://maskdetech.uc.r.appspot.com/" target="_blank">maskdetech.uc.r.appspot.com</a>
 </p>
 
 ## Screenshots 
@@ -73,13 +73,15 @@ In addition, we created an accompanying web application using Flask, HTML, CSS, 
 * [JavaScript](https://www.javascript.com/)
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
-## Clone
+## Setup
+
+#### Clone
 
 ```
 git clone https://github.com/aahmad4/MaskDetech
 ```
 
-## Installation
+#### Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages.
 
@@ -87,8 +89,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install -r requirements.txt
 ```
 
-## Usage
-
+#### Usage
+```
+cd MaskDetech
+```
 ```
 export FLASK_APP=main.py
 flask run
